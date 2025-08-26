@@ -1,1 +1,3 @@
 Merhaba, bu dosyayı github üzerinden oluşturdum.
+
+merhaba ben ebru branchinden mesaj
